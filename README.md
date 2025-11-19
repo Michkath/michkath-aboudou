@@ -57,7 +57,7 @@
 ### 🏦 Prédiction de Risque de Défaut (Home Credit)
 **Projet Data Science & Machine Learning**
 <br>
-[![Voir le Code](https://img.shields.io/badge/Voir_le_Code-000000?style=for-the-badge&logo=github&logoColor=white)](LIEN_DE_VOTRE_REPO_HOME_CREDIT_ICI)
+[![Voir le Code](https://img.shields.io/badge/Voir_le_Code-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Michkath/TP_Concept_and_techno_IA)
 
 *Détection des clients à risque pour optimiser la stratégie bancaire.*
 
